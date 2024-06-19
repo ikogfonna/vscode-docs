@@ -2,11 +2,11 @@
   "name": "vscode-docs",
   "version": "0.10.3",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "DJANGO"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode-docs.git"
+    "url": "https://charts.mql5.com/39/683/eurusdm-h1-exness-technologies-ltd-2.png"
   },
   "scripts": {
     "check-lfs": "node ./build/check-lfs.js",
